@@ -1,4 +1,4 @@
-# Hi, I'm Xuechen Li 👋
+# Hi, I'm Xuechen👋
 
 📍 **University of Minnesota Twin Cities** | 🌾 **Computer Vision & Vision–Language Models (Agri-AI)** | 🎓 **Ph.D. Candidate**
 
@@ -14,7 +14,7 @@
 
 ## Current Projects
 
-- 🐱 **Papa** — a lightweight, always-on-top desktop companion for effortless daily recording.
+- 🐱 **[Papa](https://github.com/dbcopper/Papa)** — a lightweight, always-on-top desktop companion for effortless daily recording.
 
 ## GitHub Activity
 
