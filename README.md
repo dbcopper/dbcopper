@@ -10,8 +10,6 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-
 > I work on computer vision and vision–language models for agriculture, exploring how LLMs and agent systems can support crop disease diagnosis, crop phenotyping, and intelligent decision-making.
 
 ## Current Projects
@@ -29,9 +27,3 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=sN3SeDoAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuechen-li-a9b7132b4/)
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-3920-4329)
-
----
-
-### Philosophy
-
-> “Capture first, organize later.” — Low friction wins. Build tools that stay out of the way, but are always there when you need them.
