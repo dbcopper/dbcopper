@@ -22,7 +22,6 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/-dbcopper.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://dbcopper.github.io)
 [![GitHub](https://img.shields.io/badge/-@dbcopper-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dbcopper)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=sN3SeDoAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuechen-li-a9b7132b4/)
