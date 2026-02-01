@@ -15,6 +15,7 @@
 ## Current Projects
 
 - 🐱 **[Papa](https://github.com/dbcopper/Papa)** — a lightweight, always-on-top desktop companion for effortless daily recording.
+- 🎬 [WinGIF](https://github.com/dbcopper/WinGIF)— a minimal desktop recorder that makes quick GIFs feel instant.
 
 ## GitHub Activity
 
