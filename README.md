@@ -12,7 +12,7 @@
 
 > I work on computer vision and vision–language models for agriculture, exploring how LLMs and agent systems can support crop disease diagnosis, crop phenotyping, and intelligent decision-making.
 
-🧭 [SandPilot](sandpilot.page.dev) (closed source)  — build anything with an AI coding agent in a cloud sandbox.
+🧭 [SandPilot](sandpilot.pages.dev) (closed source)  — build anything with an AI coding agent in a cloud sandbox.
 ## Current Projects
 
 - 🐱 **[Papa](https://github.com/dbcopper/Papa)** — a lightweight, always-on-top desktop companion for effortless daily recording.
