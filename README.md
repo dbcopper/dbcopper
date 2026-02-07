@@ -12,12 +12,12 @@
 
 > I work on computer vision and vision–language models for agriculture, exploring how LLMs and agent systems can support crop disease diagnosis, crop phenotyping, and intelligent decision-making.
 
-
+🧭 [SandPilot](sandpilot.page.dev) (closed source)  — a sandbox-first cloud coding cockpit for shipping changes fast.
 ## Current Projects
 
 - 🐱 **[Papa](https://github.com/dbcopper/Papa)** — a lightweight, always-on-top desktop companion for effortless daily recording.
 - 🎬 **[WinGIF](https://github.com/dbcopper/WinGIF)** — a minimal desktop recorder that makes quick GIFs.
-- 🧭 SandPilot (closed source)  — a sandbox-first cloud coding cockpit for shipping changes fast.
+
 
 ## GitHub Activity
 
