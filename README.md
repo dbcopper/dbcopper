@@ -15,6 +15,7 @@
 🧭 [SandPilot](https://sandpilot.pages.dev) (closed source)  — build anything with an AI coding agent in a cloud sandbox.
 ## Current Projects
 
+- 🛣️ **[RouterX](https://github.com/dbcopper/RouterX)** — a multi-model AI interface aggregation platform.
 - 🐱 **[Papa](https://github.com/dbcopper/Papa)** — a lightweight, always-on-top desktop companion for effortless daily recording.
 - 🎬 **[WinGIF](https://github.com/dbcopper/WinGIF)** — a minimal desktop recorder that makes quick GIFs.
 
